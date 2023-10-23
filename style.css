@@ -1,0 +1,122 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+  background-color: blueviolet;
+  color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.menu {
+  display: inline;
+  margin-right: 50px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 30px;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.901);
+}
+
+.titulo-pg {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  margin-bottom: 0;
+  color: white;
+}
+
+.div-imagem {
+  text-align: center;
+}
+
+.imagem-pagina {
+  width: 200px;
+  border-radius: 150%;
+  margin: 2%;
+}
+.sobre-mim {
+  text-align: justify;
+  font-size: larger;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  color: aliceblue;
+}
+.tecnologias {
+  margin-bottom: 100px;
+  list-style: none;
+  text-align: center;
+  font-weight: 800;
+  color: purple;
+}
+.img-projetos {
+  border-radius: 20px;
+}
+.programas {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+  color: aliceblue;
+}
+
+.programas th,
+.programas td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.programas th {
+  background-color: blueviolet;
+}
+
+.programas tr:hover {
+  background-color: gray;
+}
+
+.programas a {
+  text-decoration: none;
+  color: purple;
+}
+
+.programas a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.portifolio {
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  margin-top: 100px;
+ font-size: x-large;
+}
+.portifolio td {
+  text-align: center;
+  padding-left: 15px;
+}
+.portifolio a {
+    
+    color: antiquewhite;
+  }
+.portifolio a:hover {
+    text-decoration: underline;
+    color: purple;
+  }
+
+.icones {
+
+  width: 50px;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: blueviolet;
+  color: aliceblue;
+
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
