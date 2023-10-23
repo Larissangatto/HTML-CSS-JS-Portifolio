@@ -8,6 +8,9 @@ nav {
   text-align: center;
   width: 100%;
 }
+.ul li:hover {
+  background-color: gray;
+}
 .menu {
   display: inline;
   margin-right: 50px;
@@ -90,23 +93,21 @@ body {
   margin: 0 auto;
   font-family: Arial, sans-serif;
   margin-top: 100px;
- font-size: x-large;
+  font-size: x-large;
 }
 .portifolio td {
   text-align: center;
   padding-left: 15px;
 }
 .portifolio a {
-    
-    color: antiquewhite;
-  }
+  color: antiquewhite;
+}
 .portifolio a:hover {
-    text-decoration: underline;
-    color: purple;
-  }
+  text-decoration: underline;
+  color: purple;
+}
 
 .icones {
-
   width: 50px;
   border-radius: 10px;
 }
