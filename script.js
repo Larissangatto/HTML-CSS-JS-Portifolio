@@ -1,6 +1,6 @@
 // Navegando no menu
 function inicial() {
-  window.location.replace("inicial.html");
+  window.location.replace("index.html");
 }
 function projetos() {
     window.location.replace("projetos.html");
