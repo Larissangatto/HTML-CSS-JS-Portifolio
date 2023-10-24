@@ -2,4 +2,6 @@
 
 Projeto básico em html CSS e JavaScript.
 
-Baixe todos os arquivos dentro de uma  mesma pasta e navegue à vontade no meu pequeno portifólio em HTML.
+ Confira nos arquivos como montar o portifólio. Clique no link abaixo e  navegue à vontade no meu pequeno portifólio em HTML.
+
+https://larissangatto.github.io/HTML-CSS-JS-Portifolio/
